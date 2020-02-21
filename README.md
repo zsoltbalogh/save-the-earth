@@ -11,6 +11,7 @@ Ideas:
  - Turn off electricity when leaving the desk for the night (still need to verify if it means anything)
  - Review servers, shut down unneeded ones. Consolidate services.
  - Set up smart rules for ACs
+ - Place reminders in meeting rooms/Toilets to turn off electricity
  
 ## 03. Water (April)
 Ideas:
