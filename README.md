@@ -17,11 +17,15 @@ Ideas:
 Ideas:
  - Configure how much water each toilet takes - currently it's unpredictable and inconsystent
  - Collect garbage on the shore of the Danube (where our water is coming from)
+ - Collect rain to water plants
+ - Automate plant watering
+ - Pay more attention to dishwasher usage
 
 ## 04. Travel & Transportation (May)
 Ideas:
  - Walking / biking to the office
  - Hiking / biking events
+ - Challenge other offices or other companies
  
 ## 05. Less Garbage (June)
 Ideas:
@@ -35,6 +39,8 @@ Ideas:
  - Liferay bags (reusable)
  - Lunch boxes
  - Making syrup together for beverages
+ - Get a soda machine
+ - Visit a selective waste management site
 
 ## 07. Local produce (August)
 Ideas:
