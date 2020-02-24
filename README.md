@@ -4,7 +4,7 @@ Ideas for companies to lower their environmental footprint.
 We at Liferay Hungary made a commitment to save the Earth by changing 10 habits in 2020. Each month we introduce a new habit which would lower the environmental footprint in our community. Please feel free to take these ideas and copy them, if you have better ideas, please submit them by sending a pull request.
 
 ## 01. Less Meat (February)
-In the first month we eat less meat by organizing meatless Mondays. The first Monday was a team lunch (we ordered from a vegan restaurant), on the second one we cooked together (grilled cheese sandwitches), on the third we had a pot luck lunch. On the last week of the month we will cook together for every lunch without meat.
+In the first month we eat less meat by organizing meatless Mondays. The first Monday was a team lunch (we ordered from a vegan restaurant), on the second one we cooked together (grilled cheese sandwitches), on the third we had a pot luck lunch. On the last week of the month we will cook together for every lunch without meat. See our recipes in the [recipes](recipes/) folder.
 
 ## 02. Energy Usage (March)
 Ideas:
